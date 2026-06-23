@@ -31,13 +31,13 @@ The goal is to verify whether each lab can still be completed successfully using
 
 ## Lab Status
 
-| Lab                                   | Status     | Notes                                                                                                                                 |
-| ------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Lab 00 - Validate Lab Environment     | ✅ Complete | Validated                                                                                                                             |
-| Lab 01 - Create a Data Model          | ✅ Complete | Validated                                                                                                                             |
-| Lab 02 - Create a Canvas App          | ✅ Complete | Validated ([Live App](https://apps.powerapps.com/play/e/20c6b95d-89fe-eeef-aaa5-335ec2d2c345/a/60babd50-6ee4-4eeb-bcfc-72fbd93abd1f)) |
-| Lab 03 - Create a Model-Driven App    | ⏳ Pending  | Not Started                                                                                                                           |
-| Lab 04 - Create a Power Automate Flow | ⏳ Pending  | Not Started                                                                                                                           |
+| Lab                                   | Status     | Notes                                                                                                                                                                                                         |
+| ------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Lab 00 - Validate Lab Environment     | ✅ Complete | Validated                                                                                                                                                                                                     |
+| Lab 01 - Create a Data Model          | ✅ Complete | Validated                                                                                                                                                                                                     |
+| Lab 02 - Create a Canvas App          | ✅ Complete | Validated ([Live App](https://apps.powerapps.com/play/e/20c6b95d-89fe-eeef-aaa5-335ec2d2c345/a/60babd50-6ee4-4eeb-bcfc-72fbd93abd1f))                                                                         |
+| Lab 03 - Create a Model-Driven App    | ✅ Complete | Validated ([Live App](https://org3ddcf637.crm15.dynamics.com/main.aspx?appid=b435df22-ec6e-f111-ab0e-002248cbcca7&pagetype=entitylist&etn=account&viewid=00000000-0000-0000-00aa-000010001001&viewType=1039)) |
+| Lab 04 - Create a Power Automate Flow | ⏳ Pending  | Not Started                                                                                                                                                                                                   |
 
 ---
 
@@ -64,6 +64,15 @@ The goal is to verify whether each lab can still be completed successfully using
 * Navigation and form submission tested successfully.
 * Published app updates may take time to propagate.
 
+### Lab 03
+
+* Model-driven app creation completed successfully.
+* Navigation, forms, and views were successfully configured and published.
+* Current Power Apps UI differs from screenshots provided in the lab.
+* Unable to rename **New Group** as described in the instructions because the option was not available in the current App Designer experience.
+* Form designer layout differs from the layout shown in the lab screenshots.
+* Despite UI differences, all core learning objectives were completed successfully.
+
 ---
 
 ## Commit Format
@@ -79,4 +88,4 @@ or
 
 ---
 
-Based on validation of MicrosoftLearning PL-900 lab content and current Power Platform experiences.
+Based on hands-on validation of MicrosoftLearning PL-900 lab content against the current Microsoft Power Platform experience.
