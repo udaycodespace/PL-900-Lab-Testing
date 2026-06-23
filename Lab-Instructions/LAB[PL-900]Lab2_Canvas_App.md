@@ -187,4 +187,18 @@ The first thing we want to do is to customize the main screen to include a welco
     -   Selecting a record in the gallery displays its details in the form on the right.
 1.  Close the preview and **Save** your app as **Facility Request App** (File \> Save or Ctrl+S).
 
+Status: VALIDATED SUCCESSFULLY
 
+Technical Status: Working
+
+Student Blockers:
+- None (after adapting to current UI)
+
+Documentation Updates Required:
+- Yes
+
+Impact:
+- Low
+
+Result:
+- Lab objectives achieved successfully.
